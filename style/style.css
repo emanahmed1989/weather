@@ -50,21 +50,21 @@ body{
 }
 .dateItem{
     background-color: #2c303d;
-    border:solid 1px #2c303d;
-    border-top-left-radius: 10px;
+    /* border:solid 1px #2c303d;
+    border-top-left-radius: 10px; */
 }
 .right-raduis{
     border:solid 1px #2c303d;
     border-top-right-radius: 10px;
 }
-.forecast-weather  {
+/* .forecast-weather  {
 border:solid 1px #2c303d;
     border-top-right-radius: 10px;
-}
-.today-weather {
+} */
+/* .today-weather {
     border:solid 1px #2c303d;
     border-top-left-radius: 10px;
-}
+} */
 .light-dark2{
     background-color: #252936;
 }

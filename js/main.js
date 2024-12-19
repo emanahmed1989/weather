@@ -83,9 +83,9 @@ function display(){
     
                                 </div>
                             </div>
-                            <div class="col-lg-4 light-dark ">
-                                <div class="forecast-weather  light-dark align-self-stretch  text-center"> 
-                                        <div class="p-2 dateItem">
+                            <div class="col-lg-4 light-dark right-raduis">
+                                <div class="forecast-weather right-raduis light-dark align-self-stretch  text-center"> 
+                                        <div class="p-2 dateItem right-raduis">
                                             ${day3}
                                         </div>
                                     <div class="row py-5 ">
